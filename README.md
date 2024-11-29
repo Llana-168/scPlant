@@ -7,9 +7,9 @@ PhytoCluster is an unsupervised deep learning framework , for clustering scRNA-s
 Python 3.10 / 3.11.
 
 Optional: Hardware accelerator supporting PyTorch.
-## Install Cropformer
+## Install PhytoCluster
 
-We provided a pre-packaged Conda environment for directly running Cropformer.
+We provided a pre-packaged Conda environment for directly running PhytoCluster.
 
 ```bash
 conda env create -f PhytoCluster.yml
